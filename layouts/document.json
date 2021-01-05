@@ -1,0 +1,159 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "B2BA77C3-14E1-4119-90EF-5816482B6C39",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "8183EC81-FAB8-41AB-ABB0-9E56C17DAF00",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0FE2AA9E-AF51-44D4-A48D-0CA2B53614BA",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "362B11FA-C8D0-4705-9474-B15350BF5564",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-ExtraboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "55144414-B1B7-4CB5-B139-D257DDE79140",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSansLight-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "58372FD5-7C19-42FA-A55D-84F42016E5E7",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "661AC6BB-0DA3-4EF1-B7FC-2E13046C26CC",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7C1C68E9-2CCD-48A7-B8D3-F53C300A1615",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8F2DE89D-8B23-4E37-8A3F-D816996D01AA",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Semibold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B3A83EA1-C01E-454F-AC6E-CC994DF83D1D",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "Open Sans regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D8CCC6D1-1C41-41D4-9E31-857E1316B728",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Extrabold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F9727C95-C551-49DC-AB49-17A745C63394",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-SemiboldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-SemiboldItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "46E56584-0AE7-472D-A83B-3C29D668FF67",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70",
+    "build": 108797,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "D11FA3BB-D455-4C03-AD8E-A732C8264E9F",
+    "objects": [
+    ]
+  }
+}
