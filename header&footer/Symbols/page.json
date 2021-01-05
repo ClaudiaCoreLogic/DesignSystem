@@ -154,6 +154,38 @@
     {
       "class": "symbolMaster",
       "id": "15751F90-7A79-4A2F-9E38-1081436F9293"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "172848E0-A5A1-4FD2-BE45-92F4445A5A45"
+    },
+    {
+      "class": "bitmap",
+      "id": "1A6499F0-4836-4464-9CF0-1B6459061F76"
+    },
+    {
+      "class": "artboard",
+      "id": "5889DACE-E6CF-430C-855D-3990E8209896"
+    },
+    {
+      "class": "artboard",
+      "id": "EBB49901-0A38-4D8F-B061-454B33A4855F"
+    },
+    {
+      "class": "artboard",
+      "id": "D4878F9D-8F0B-4723-8299-526EDC6EF23B"
+    },
+    {
+      "class": "bitmap",
+      "id": "46F9C300-8B6A-4200-895C-E232AB811253"
+    },
+    {
+      "class": "bitmap",
+      "id": "AC367E4B-2BD2-45DF-92CA-9FC3DAF817AD"
+    },
+    {
+      "class": "bitmap",
+      "id": "552AC832-259C-4708-AF89-3C3D3FF02C7E"
     }
   ],
   "name": "Symbols",

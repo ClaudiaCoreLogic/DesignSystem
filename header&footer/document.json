@@ -9774,8 +9774,8 @@
     ]
   },
   "meta": {
-    "appVersion": "70",
-    "build": 108797,
+    "appVersion": "70.3",
+    "build": 109109,
     "version": 134
   },
   "pages": [
@@ -9796,6 +9796,9 @@
           "updatedOn": "2019-05-16 05:58:50 +0000"
         }
       }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }
   }
 }

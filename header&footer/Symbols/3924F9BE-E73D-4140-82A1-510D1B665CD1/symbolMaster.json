@@ -64,6 +64,21 @@
       "id": "955C9210-4DAB-462A-93DD-5147EE50EC9D"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 96,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 8.166666666666666,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1250
+  },
   "name": "Footer / 1",
   "nameIsFixed": true,
   "overrideProperties": [
