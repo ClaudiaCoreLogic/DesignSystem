@@ -23,7 +23,14 @@
   },
   "colorSpace": 0,
   "do_objectID": "4c158e80-4ef4-11eb-8ca4-d79fc86b945a",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+  ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -31,17 +38,24 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "6329ABAE-4CEF-11EB-8CA4-DC9DC84AED37",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "64",
-    "build": 93537,
-    "version": 125
+    "appVersion": "70.3",
+    "build": 109109,
+    "version": 134
   },
   "pages": [
     "Page 1"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "7525AFAE-4CEF-11EB-8CA4-DC9DC84AE33B",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
