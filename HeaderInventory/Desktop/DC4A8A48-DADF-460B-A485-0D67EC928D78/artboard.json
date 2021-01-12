@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2693,
+    "height": 3957,
     "width": 1629,
     "x": -295,
     "y": -982
@@ -364,6 +364,42 @@
     {
       "class": "text",
       "id": "9C4A1EB8-866F-4C8F-BF0F-3FD2DE275B8D"
+    },
+    {
+      "class": "text",
+      "id": "ED52D97B-E3E8-467D-9327-4F47BAF19514"
+    },
+    {
+      "class": "text",
+      "id": "25E7E9C7-F77B-45A5-B126-3FEAAC74ECFE"
+    },
+    {
+      "class": "text",
+      "id": "963D24CE-93CB-4B39-991F-C3D7A746A071"
+    },
+    {
+      "class": "group",
+      "id": "76F41BE4-9C66-43FA-AD29-958F72EF33ED"
+    },
+    {
+      "class": "group",
+      "id": "1D2ACD9F-2507-44A6-BE3A-65FE8460BD4F"
+    },
+    {
+      "class": "group",
+      "id": "738523ED-AC1A-4A1F-B339-8B1BEF6C46BD"
+    },
+    {
+      "class": "group",
+      "id": "06EED003-AF3F-4E4C-95F4-533ECBA94DEB"
+    },
+    {
+      "class": "group",
+      "id": "2666FACF-ACC7-47BA-8FCE-A39DCE78CF1D"
+    },
+    {
+      "class": "group",
+      "id": "90BC450B-78C3-43CD-8685-0804B6ADD649"
     }
   ],
   "name": "DESKTOP",

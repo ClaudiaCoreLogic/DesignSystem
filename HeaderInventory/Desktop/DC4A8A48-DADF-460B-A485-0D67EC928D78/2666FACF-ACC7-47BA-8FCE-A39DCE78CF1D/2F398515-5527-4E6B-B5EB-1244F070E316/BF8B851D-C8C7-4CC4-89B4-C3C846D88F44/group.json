@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF8B851D-C8C7-4CC4-89B4-C3C846D88F44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 143,
+    "x": 48,
+    "y": 7.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F1919484-7CCF-4CF1-BD22-2C47B37940DA"
+    }
+  ],
+  "name": "Search for a suburb,",
+  "nameIsFixed": false,
+  "resizingConstraint": 43,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D8460EFD-CDD0-4E52-B8A1-31CDD821C17E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "A8930E9F-F202-4397-A9BF-9BCF4256A4BB",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 19,
+          "width": 268.5881828095567,
+          "x": 48,
+          "y": 8.5
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "155560D4-FFF9-4B4F-8359-67760345463E",
+        "symbolID": "2C66004E-3C06-4CA4-8BAF-8D13FB405D99"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "A8930E9F-F202-4397-A9BF-9BCF4256A4BB",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 19,
+          "width": 268.5881828095567,
+          "x": 48,
+          "y": 8.5
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "155560D4-FFF9-4B4F-8359-67760345463E",
+        "symbolID": "2C66004E-3C06-4CA4-8BAF-8D13FB405D99"
+      }
+    }
+  }
+}
