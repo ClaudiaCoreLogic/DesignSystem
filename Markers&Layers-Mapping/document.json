@@ -1,0 +1,297 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "2E937322-0A0E-4B45-8838-7E838B9C43CC",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "2e6ee200-6506-11eb-9141-0399f0bbf8e8",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0C143336-6B38-4D5B-BAF9-C68409993BE8",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "19791F1A-FE65-4E63-9F59-6D8C166AB5B8",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2A868BF0-8D42-436B-AE95-EF53DF597823",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2E8B0980-6689-4056-B580-6ACEABDFAF70",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-SemiboldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2E9F92A9-6AE7-47A3-AA7D-ABAB25539BB7",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Light.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "342ADE0E-6586-4431-A8E0-A01C147F2975",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3F91968D-F66B-41ED-AB34-648EADC120A5",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "66100E80-7367-40F3-A341-B99D37D03800",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6F435CBF-8AE9-4340-BD34-4207A296CD25",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "OpenSans-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "72AB8CE4-2BF0-4F7A-B6C4-894B690C52CC",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "75855A85-E691-4CE7-8F35-0CE08FA50A6D",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-SemiBold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "OpenSans-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8DCF95F0-FFCB-481A-98A5-D2976228C88F",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Semibold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8F92A631-0A29-4C14-8A16-6580686BB2E7",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9838CF02-DC60-45D0-B1A3-569533F4B115",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-HeavyItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-HeavyItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9EAD6DFD-D4A7-42EA-9474-103AE9241528",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "OpenSans-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7D4B119-64E0-408C-B604-5B7379CC0ACB",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B5457F9A-DBF9-4C97-8B48-2CBBC3ADB692",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B8CFC7D3-F84A-49F9-9C0D-09FAC59397F0",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DD6CA168-C82B-4F62-8193-81E9E4FD1929",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E970BA5E-A8E8-4BCD-B81C-6CE86C33CAC8",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ED2250B1-E6D3-4C93-A1E3-EC89F3F2F3D8",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FF370706-0B0A-408E-BDBC-FD056BC8BAA2",
+      "fontFamilyName": "Open Sans",
+      "fontFileName": "OpenSans-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "OpenSans-Italic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "0152C72E-671D-11EB-9141-089BF09A8185",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70.3",
+    "build": 109109,
+    "version": 134
+  },
+  "pages": [
+    "Markers-Mapping",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "175EC32E-671D-11EB-9141-089BF09A8F89",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invision.dsm": {
+      "libraryMetadata": {
+        "sketchLibrariesData": {
+          "layerStylesMap": {
+          },
+          "symbolsMap": {
+          },
+          "textStylesMap": {
+          }
+        }
+      }
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
